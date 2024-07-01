@@ -1,4 +1,3 @@
-import React from 'react';
 import Card from '../Card/Card';
 import style from './container.module.scss';
 

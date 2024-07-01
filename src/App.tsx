@@ -1,5 +1,3 @@
-import {useState} from 'react';
-
 import style from './style/app.module.scss';
 import Header from './components/Header/Header';
 import Container from './components/Container/Container';

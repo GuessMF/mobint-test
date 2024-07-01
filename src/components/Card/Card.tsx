@@ -1,4 +1,3 @@
-import React from 'react';
 import style from './card.module.scss';
 import logo from '../../assets/img/logo.png';
 export default function Card() {
